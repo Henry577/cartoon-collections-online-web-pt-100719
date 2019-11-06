@@ -1,8 +1,10 @@
 def roll_call_dwarves(characters)
   
+  count = 1
+  
   characters.each do |name|
     
-    puts name
+    puts "#{count}. #{name}"
     
   end
   
