@@ -14,7 +14,7 @@ end
 
 def summon_captain_planet(calls)
   
-  calls.collect {|x| x.capitalise + "!"}
+  calls.collect {|x| x.capitalize + "!"}
   
 end
 
