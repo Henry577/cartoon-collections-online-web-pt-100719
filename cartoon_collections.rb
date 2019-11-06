@@ -34,7 +34,7 @@ def find_the_cheese(array)
     
     if result == true
       
-      puts each
+      p each
       
       break
       
