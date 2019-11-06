@@ -6,6 +6,8 @@ def roll_call_dwarves(characters)
     
     puts "#{count}. #{name}"
     
+    count += 1
+    
   end
   
 end
