@@ -36,9 +36,13 @@ def find_the_cheese(array)
       
       p each
       
-      break
-      
     end
+    
+  else
+    
+    break
+    
+  end
     
   end
   
