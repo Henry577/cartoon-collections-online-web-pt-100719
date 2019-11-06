@@ -20,7 +20,7 @@ end
 
 def long_planeteer_calls(long_calls)
   
-  long_calls.include? {|x| x > 4}
+  long_calls.any? {|x| x > 4}
   
 end
 
