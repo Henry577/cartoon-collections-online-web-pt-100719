@@ -38,11 +38,11 @@ def find_the_cheese(array)
       
     end
     
-  else
+    else
     
-    break
+      break
     
-  end
+    end
     
   end
   
