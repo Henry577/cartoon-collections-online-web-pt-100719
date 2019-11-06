@@ -32,12 +32,6 @@ def find_the_cheese(array)
     
     result = cheese_types.include?(i)
     
-    if result == true
-      
-      p i
-    
-    end
-    
   end
   
 end
