@@ -34,4 +34,8 @@ def find_the_cheese(array)
     
   end
   
+  if result == true
+    
+    p i
+  
 end
