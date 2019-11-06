@@ -28,13 +28,13 @@ def find_the_cheese(array)
   
   cheese_types = ["cheddar", "gouda", "camembert"]
     
-  for each in array do
+  for i in array do
     
-    result = cheese_types.include?(each)
+    result = cheese_types.include?(i)
     
     if result == true
       
-      p each
+      p i
       
     else
     
